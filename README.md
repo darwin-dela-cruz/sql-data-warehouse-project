@@ -79,6 +79,7 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
+
 ---
 
 ## 🛡️ License
