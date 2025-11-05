@@ -2,6 +2,8 @@
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
+<img width="1173" height="592" alt="image" src="https://github.com/user-attachments/assets/449e948e-a0a8-43d4-8896-baf82f2f7436" />
+
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
